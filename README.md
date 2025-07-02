@@ -8,7 +8,7 @@
   
 - 💻 Im currently doing Technical trainee Engineering
   
-- 💻 All of my projects are available on [GitHub](https://github.com/https://nithya-19-2d)
+- 💻 All of my projects are available on [GitHub](https://github.com/nithya-19-2d/nithyaAws)
 
 - 💬 Ask me about **Programming, Full Stack Development, PowerBi**
 
